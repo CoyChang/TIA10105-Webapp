@@ -1,4 +1,4 @@
-package com.promotion.project.model;
+package com.promotionproject.model;
 
 import java.util.*;
 
